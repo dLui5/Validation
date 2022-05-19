@@ -1,1 +1,6 @@
+x=0
+while [$x -le 10]
+Do
+x=$(($x + 1))
+End
 echo DevOps
