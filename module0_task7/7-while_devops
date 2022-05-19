@@ -2,5 +2,5 @@ x=0
 while [$x -le 10]
 do
 x=$(($x + 1))
-end
+done
 echo DevOps
