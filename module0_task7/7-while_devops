@@ -2,6 +2,6 @@ x=1
 while [ $x -le 9 ]
 do
   echo DevOps $x
-  ((x+=1))
+  x=2
 done
 
