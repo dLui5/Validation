@@ -1,5 +1,5 @@
 x=1
-while [ $x -le 9 ]
+while [ x -le 9 ]
 do
 echo "DevOps"
 ((x++))
